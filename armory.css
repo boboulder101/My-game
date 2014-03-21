@@ -1,0 +1,18 @@
+body {
+
+    background-image: url("http://1.bp.blogspot.com/_HZTyK7mUeTc/TQfAOQIizeI/AAAAAAAAAig/NtjGSSMNth0/s1600/IMG_6428_small.jpg");
+}
+* {
+	color:#000000;
+}
+/*.underlined {
+	text-decoration: none;
+}
+*/
+a:link {
+	color: blue;
+}
+a:hover {
+	text-decoration: none;
+	color: red;
+}
